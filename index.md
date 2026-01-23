@@ -16,7 +16,7 @@
   src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
 </script>
 
-# Preface: On Slopes, Scars, and the Refusal to Inherit Time
+# [Preface](https://ukb-dt.github.io/repos-00/): On Slopes, Scars, and the Refusal to Inherit Time
 
 This work begins from a simple but corrosive observation: **modern explanation is addicted to derivatives**.
 
